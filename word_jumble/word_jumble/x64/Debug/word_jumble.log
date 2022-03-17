@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\micha\Desktop\CIS_Portfolio\Murach_C++\word_jumble\word_jumble\main.cpp(24,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\micha\Desktop\CIS_Portfolio\Murach_C++\word_jumble\word_jumble\main.cpp(34,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  word_jumble.vcxproj -> C:\Users\micha\Desktop\CIS_Portfolio\Murach_C++\word_jumble\x64\Debug\word_jumble.exe
