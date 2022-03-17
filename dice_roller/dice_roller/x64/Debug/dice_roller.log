@@ -1,6 +1,0 @@
-﻿  Dice.cpp
-  Die.cpp
-C:\Users\micha\Desktop\CIS_Portfolio\Murach_C++\dice_roller\dice_roller\Die.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\micha\Desktop\CIS_Portfolio\Murach_C++\dice_roller\dice_roller\Die.cpp(24,15): error C3861: 'invalid_argument': identifier not found
-  main.cpp
-  Generating Code...
